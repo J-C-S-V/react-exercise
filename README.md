@@ -6,7 +6,7 @@
   </a>
 </div>
 
-# To do list
+# React tutorial
 
 # 📗 Table of Contents
 
@@ -28,7 +28,7 @@
 
 # 📖 About the project <a name="about-project"></a>
 
-This is a project to create lists for a day. This was build using SPA (Single Page Application), JavaScript ES6, HTML5, CSS3, mobile-first approach. local storage API and DOM manipulation.
+This is a project to practice React.js
 
 ## 🛠 Built with <a name="built-with"></a>
 
@@ -72,7 +72,9 @@ This is a project to create lists for a day. This was build using SPA (Single Pa
 
 ## 🚀 Live demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://j-c-s-v.github.io/webpack-to-do-list/)
+Under construction
+
+<!-- - [Live Demo Link](https://j-c-s-v.github.io/webpack-to-do-list/) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
